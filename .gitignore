@@ -1,1 +1,25 @@
-a.out
+# Object files
+*.o
+
+# Executable files
+*.exe
+*.out
+*.bin
+*.run
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+Release/
+Debug/
+
+# Dependency directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# makefile generated
+main
