@@ -15,11 +15,5 @@ build/
 Release/
 Debug/
 
-# Dependency directories
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
 # makefile generated
 main
